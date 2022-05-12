@@ -22,12 +22,12 @@ yarn-error.log*
 **/*Umbraco*/App_Plugins/
 **/Smidge/
 
+# TypeScript
+.tsbuildcache
 
-# FED Ignore build assets
+# Ignore build assets
 **/dist/
 
-# FED Local Sentry Test Pages
-pages/sentry
 
 *.code-workspace
 .vscode/*.json
